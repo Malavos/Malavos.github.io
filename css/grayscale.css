@@ -267,7 +267,9 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+    /* background: url(../img/downloads-bg.jpg) no-repeat center center scroll; */
+	background: url(../img/test_stretch.jpg) no-repeat center center scroll;
+	background-size: 100% !important;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
