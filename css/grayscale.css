@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - Grayscale Bootstrap Theme (http://startbootstrap.com)
+ * Omnium Style Sheet - Taken originaly from grayscale theme.
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
@@ -153,6 +153,7 @@ a:focus {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
+	background-size: 100% !important;
     -o-background-size: cover;
 }
 
